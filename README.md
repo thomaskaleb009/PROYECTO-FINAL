@@ -25,3 +25,4 @@ Ademas de ello, se lanzo un servidor web en el cual se realizo una interfaz web 
 
 Los protocolos de comunicación utilizados en este proyecto fueron I2C, UART y edición de URL. De forma que el primero fue usado para inicializar y mandar datos a la OLED y a la OV7670, el segundo para comunicar ambas rasberries con el fin de mostrarse al usuario en que estado se encontraba la plancha magnetica y el tercero para comunicar las acciones opturadas por el usuario y la raspberry que controlaba los servomotores
 
+El enlace del video informativo es el siguiente: https://youtu.be/gHvydUekMPI
